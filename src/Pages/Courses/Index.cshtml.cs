@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace RazorFreight.Pages.Routes
+namespace RazorFreight.Pages.Courses
 {
     public class IndexModel : PageModel
     {
